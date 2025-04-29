@@ -50,10 +50,10 @@ test('Login to sauce demo website.', async ({ page }) => {
 ## CI/CD Integration
 The project includes a GitHub Actions workflow to automate testing on every push or pull request. The workflow:
 
-Installs dependencies
-Installs Playwright browsers
-Runs the tests
-Uploads the test report as an artifact
+- Installs dependencies
+- Installs Playwright browsers
+- Runs the tests
+- Uploads the test report as an artifact
 
 ## License
 This project is licensed under the ISC License.
